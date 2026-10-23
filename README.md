@@ -171,8 +171,6 @@ Create a `.env` file in the `web-app/` directory:
 VITE_API_BASE_URL=http://localhost:8084/api
 ```
 
-## 🚀 Running Locally
-
 ### 1. Backend API Setup
 
 ```bash
