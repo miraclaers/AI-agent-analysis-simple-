@@ -406,10 +406,6 @@ This is a sample application designed to demonstrate agentic AI patterns. Feel f
 
 This sample code is provided as-is for demonstration purposes.
 
-## 📚 Resources
-
-- [Microsoft Agent Framework](https://github.com/microsoft/agent-framework)
-
 ## 💬 Support
 
 For issues and questions, please refer to the repository's issue tracker or documentation.
