@@ -197,7 +197,6 @@ python main.py
 ```bash
 uvicorn main:app --host 0.0.0.0 --port 8084 --reload
 ```
-
 ### 2. Frontend Web Application Setup
 
 Open a new terminal window:
@@ -216,7 +215,6 @@ npm run dev
 
 # The web app will be available at http://localhost:8080
 ```
-
 ### 3. Azure Services Setup
 
 **Cosmos DB:**
